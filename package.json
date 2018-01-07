@@ -1,0 +1,9 @@
+{
+  "name": "k-multi-redux",
+  "version": "0.1.0",
+  "description": "Make you application from multi redux store with ease!",
+  "main": "index.js",
+  "repository": "git@github.com:alakarteio/k-multi-redux.git",
+  "author": "Fabien JUIF <fabien.juif@gmail.com>",
+  "license": "MIT"
+}
